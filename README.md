@@ -72,3 +72,16 @@ Ideas, feedback, and improvements are welcome.
 ## Author
 
 Created by Mukelo Dlamini
+
+## How This Project Works
+
+The AI-Powered Student is being developed through three main areas:
+
+### Ebook
+Educational content that teaches students how to use AI for learning and productivity.
+
+### Landing Page
+A website that introduces the product and explains its benefits.
+
+### Marketing
+Strategies and materials used to share the product with students.
