@@ -14,3 +14,28 @@ To help students move from simply using AI for answers to using AI as a tool for
 
 ## Status
 Currently in development.
+## The Problem
+
+Many students use AI only to get quick answers instead of using it as a tool for deeper learning, creativity, and productivity.
+
+## The Solution
+
+The AI-Powered Student teaches students how to use artificial intelligence as a personal learning assistant.
+
+## Project Structure
+
+📁 Landing-Page  
+The website and product presentation.
+
+📁 Ebook  
+The ebook chapters and learning materials.
+
+📁 Marketing  
+Product descriptions, promotional content, and launch materials.
+
+## Future Plans
+
+- Add more ebook chapters
+- Create AI study templates
+- Build student productivity tools
+- Develop an AI learning platform
