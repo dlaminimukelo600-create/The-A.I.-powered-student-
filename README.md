@@ -39,3 +39,19 @@ Product descriptions, promotional content, and launch materials.
 - Create AI study templates
 - Build student productivity tools
 - Develop an AI learning platform
+## Project Structure
+
+📁 Landing-Page  
+The website and product presentation.
+
+📁 Ebook  
+The ebook chapters and learning materials.
+
+📁 Marketing  
+Product descriptions, promotional content, and launch materials.
+## Future Plans
+
+- Add more ebook chapters
+- Create AI study templates
+- Build student productivity tools
+- Develop an AI learning platform
