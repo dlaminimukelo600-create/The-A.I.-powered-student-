@@ -30,3 +30,24 @@
 - Expand into a complete AI education ecosystem
 ## Phase 3
 - Build AI student platform
+# Roadmap
+
+## Phase 1: Foundation ✅
+- Create project structure
+- Design product concept
+- Build landing page
+
+## Phase 2: Content Development 🚧
+- Write ebook chapters
+- Add examples and case studies
+- Create student resources
+
+## Phase 3: Launch
+- Publish ebook
+- Collect feedback
+- Improve product
+
+## Phase 4: Growth
+- Build student community
+- Create more digital products
+- Expand the AI learning ecosystem
