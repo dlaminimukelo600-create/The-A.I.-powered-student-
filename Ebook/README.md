@@ -5,3 +5,4 @@
 - Chapter 2: Using AI as a Study Partner
 - Chapter 3: Research and Assignments
 - Chapter 4: Building Future Skills
+- Resources .md
