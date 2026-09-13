@@ -55,3 +55,20 @@ Product descriptions, promotional content, and launch materials.
 - Create AI study templates
 - Build student productivity tools
 - Develop an AI learning platform
+## Future Plans
+
+The AI-Powered Student is currently in development.
+
+Future updates include:
+- More practical AI study strategies
+- Real student case studies
+- AI prompt libraries for students
+- Productivity tools and templates
+
+## Contributing
+
+Ideas, feedback, and improvements are welcome.
+
+## Author
+
+Created by Mukelo Dlamini
